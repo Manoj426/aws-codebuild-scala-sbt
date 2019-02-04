@@ -5,7 +5,7 @@ volumes:
   host: {}
 containerDefinitions:
 - environment: []
-  name: simple-app
+  name: niddel-api
   image: amazon/amazon-ecs-sample
   cpu: 10
   memory: 500
